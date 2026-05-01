@@ -30,6 +30,7 @@ header{
       align-items: flex-end;
       padding: 20px 0;
       height: 140px;
+      border-bottom: 2px solid #ddd;
 }
 .hero{
       
@@ -100,13 +101,11 @@ nav{
 
 }
 
-.main-content{
-      ;
-}
+
 
 
 .img-derecha{
-      width: 250px;
+      width: 400px;
       height: auto;
       float: right;
       margin-left: 40px;
@@ -255,6 +254,7 @@ nav{
 .twitter:hover{
       color: #1DA1F2;
 }
+
 .footer-simple{
       border-top: 2px solid rgba(0,0,0, 0.1);
       text-align: center;
